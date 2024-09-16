@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/evanstewy/bestinthewest.git/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/</loc>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/about-us/</loc>
+<lastmod>2024-09-15T17:17:25-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/3/Ivan-Luis-Best-in-The-West-Air-Conditioning.jpg</image:loc>
+<image:title><![CDATA[Photo of Ivan Luis, owner of Best in The West Air Conditioning]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/energy-savings/</loc>
+<lastmod>2024-09-15T19:32:03-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/12/Best-In-The-West-Air-Conditioning-Energy-Savings-Photo.jpg</image:loc>
+<image:title><![CDATA[Best In The West Air Conditioning Energy Savings Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/how-does-this-thing-work/</loc>
+<lastmod>2024-09-15T19:19:10-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/1/2023-05-03.jpg</image:loc>
+<image:title><![CDATA[Best In The West Work Truck]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/1/gallery/1834345B-3B23-42C1-8042-94C67E52C843-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/1/gallery/37AD9ED9-79D6-430A-8C78-6E5A4148304C-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/1/gallery/2023-05-10-thumbnail.jpg</image:loc>
+<image:title><![CDATA[AC Repair]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/new-installs/</loc>
+<lastmod>2024-09-15T19:31:15-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/11/Best-In-The-West-Air-Conditioning-Maintenance-New-Installs-Photo.jpg</image:loc>
+<image:title><![CDATA[Best In The West Air Conditioning Maintenance New Installs Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/preventative-maintenance/</loc>
+<lastmod>2024-09-15T19:31:40-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/9/Best-In-The-West-Air-Conditioning-Maintenance-Photo.jpg</image:loc>
+<image:title><![CDATA[Best In The West Air Conditioning Maintenance Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/repairs/</loc>
+<lastmod>2024-09-15T19:30:52-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/evanstewy/bestinthewest.git/media/posts/10/Best-In-The-West-Air-Conditioning-Maintenance-Repairs-Photo.jpg</image:loc>
+<image:title><![CDATA[Best In The West Air Conditioning Maintenance Repairs Photo]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/services-old/</loc>
+<lastmod>2024-09-15T19:24:02-07:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/services-old/energy-savings-old/</loc>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/services-old/maintenance-old/</loc>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/services-old/new-installs-old/</loc>
+</url>
+<url>
+<loc>https://github.com/evanstewy/bestinthewest.git/services-old/repairs-old/</loc>
+</url>
+</urlset>
