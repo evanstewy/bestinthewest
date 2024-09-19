@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://evanstewy.github.io/bestinthewest/sitemap.xml
+Disallow: /
