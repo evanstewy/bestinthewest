@@ -15,6 +15,7 @@
                         }
                         const script = document.createElement('script');
                         script.src = 'https://cdn.commoninja.com/sdk/latest/commonninja.js';
+                        script.async = true; // Add async attribute for faster loading
                         script.onload = () => {
                         scriptLoaded = true;
                         resolve();
