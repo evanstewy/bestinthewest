@@ -623,6 +623,7 @@ textarea {
 
 /* Wrapper + Header ------------------------ */
 .header {
+  position: relative;
   top: 0;
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -2194,7 +2195,7 @@ textarea {
   font-size: 0.8789062495rem;
   padding: 0 0 calc(var(--baseline) * 6);
 }
-.faq__item > div > .faq__content-wrapper > :first-child {
+.faq__item > div > .faq__content-wrapper > div > :first-child {
   margin-top: 0;
 }
 .faq__item > div > .faq__content-wrapper a {
@@ -2410,6 +2411,30 @@ textarea {
 .footer__copyright {
   font-size: 0.8789062495rem;
   margin-top: calc(var(--baseline) * 3);
+}
+.footer__bttop {
+  bottom: calc(var(--baseline) * 4);
+  line-height: 1;
+  opacity: 0;
+  padding: calc(var(--baseline) * 2);
+  position: fixed;
+  right: 2rem;
+  text-align: center;
+  width: auto !important;
+  visibility: hidden;
+  z-index: 999;
+}
+@media all and (min-width: 56.25em) {
+  .footer__bttop {
+    bottom: calc(var(--baseline) * 8);
+  }
+}
+.footer__bttop:hover {
+  opacity: 1;
+}
+.footer__bttop.is-visible {
+  visibility: visible;
+  opacity: 1;
 }
 
 .gallery {

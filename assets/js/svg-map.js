@@ -16,7 +16,7 @@ window.publiiSvgFix = {
         "viewbox": "0 0 24 24",
         "content": "<path d=\"M18 8L22 12L18 16\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M2 12H22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
     },
-    "#toparrow": {
+    "#arrow-top": {
         "viewbox": "0 0 24 24",
         "content": "<path d=\"M8 6L12 2L16 6\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M12 2V22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />"
     },
